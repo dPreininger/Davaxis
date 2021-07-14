@@ -1,6 +1,7 @@
 - 👋 Hi, my name is David Preininger
 - 👀 I’m interested in web development
-- 📙 Programming languages i'm good at: C, C#, Java, JavaScript, SQL, HTML, CSS.
+- 📙 Programming languages i'm good at: C, C#, Java, JavaScript, SQL, HTML, CSS
+- 💻 I also know technologies like Wordpress and Node.js
 
 <!---
 Davaxis/Davaxis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
